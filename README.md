@@ -1,9 +1,9 @@
 # Purpose
-This fork was created to be used together with [Favel](https://github.com/factcheckerr/favel)
+This project was created to be used together with [Favel](https://github.com/factcheckerr/favel)
 
 [//]: # (This is a fork of [knowledgestream]&#40;https://github.com/shiralkarprashant/knowledgestream&#41; originally created by [shiralkarprashant]&#40;https://github.com/shiralkarprashant&#41;.)
 
-This fork introduces a TCP interface that can be used to submit assertions to the different fact validation approaches, instead of reading the assertions from a file.
+This project introduces a TCP interface that can be used to submit assertions to the different fact validation approaches, instead of reading the assertions from a file.
 
 # Fetch
 ```
