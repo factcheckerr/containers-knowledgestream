@@ -1,5 +1,5 @@
 # Fork
-* Sascha Trippel <strippel@mail.uni-paderborn.de>
+* TO be added later.
 
 # Original Project
 * Prashant Shiralkar <shiralkarprashant@gmail.com>
