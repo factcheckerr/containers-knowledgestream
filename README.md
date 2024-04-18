@@ -1,5 +1,5 @@
 # Purpose
-This fork was created to be used together with [Favel](https://github.com/saschaTrippel/favel)
+This fork was created to be used together with [Favel](https://github.com/factcheckerr/favel)
 
 This is a fork of [knowledgestream](https://github.com/shiralkarprashant/knowledgestream) originally created by [shiralkarprashant](https://github.com/shiralkarprashant).
 
@@ -7,7 +7,7 @@ This fork introduces a TCP interface that can be used to submit assertions to th
 
 # Fetch
 ```
-git clone https://github.com/saschaTrippel/knowledgestream
+git clone https://github.com/factcheckerr/containers-knowledgestream.git
 cd knowledgestream
 ```
 
